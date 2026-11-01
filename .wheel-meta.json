@@ -1,0 +1,22 @@
+{
+  "wheel_id": 608,
+  "structure": "umbrella",
+  "slug": "renovationsydney-com-108",
+  "project": "home-renovations-sydney-maintenance-ef7a36632d324abe5ffbf58fcd8",
+  "parent_t1_ref": "renovationsydney-com-153",
+  "node_role": "feeder",
+  "money_target": "renovationsydney.com.au",
+  "primary_kw": "home renovations sydney maintenance",
+  "intended_url": "https://aumedia.neocities.org/home-renovations-sydney-maintenance-ef7a36632d324abe5ffbf58fcd8/",
+  "tier": "T2",
+  "writeback_nonce": "71e951f040e8bce0",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/home-renovations-sydney-council-and-approvals-0bf664989e6d27f79/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
